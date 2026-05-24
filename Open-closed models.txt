@@ -1,0 +1,17 @@
+How many open source models are there?
+There are over 2.9 million AI models hosted on the internet today, according to live data from Hugging Face Models. The overwhelming majority of these are open-weight or open-source community variants
+
+How many closed source models are there?
+There is no exact, static number of closed-source AI models because new proprietary models are continuously being developed, updated, and deployed by tech companies globally. 
+OpenAI: Creators of the GPT series 
+Google DeepMind: Developers behind the Gemini ecosystem (including Ultra, Pro, and Flash variants).
+Anthropic: The team responsible for the Claude family (such as Claude 3.5 Sonnet and Opus series).
+Microsoft: Deploys proprietary models like the Copilot foundational features and specialized enterprise variants.
+
+Open Source: The model's weights (the learned data parameters) and code are publicly shared. Anyone can download, run, and modify the model locally.
+Closed Source: The model is a trade secret. It is hosted entirely on the provider's servers. Users can only interact with it through an API or a web interface.
+Open Source: Maximum privacy. Data never leaves your personal machine or private corporate servers. This makes it ideal for highly regulated industries like healthcare or finance.
+Closed Source: Lower control. Your prompts and data must be sent over the internet to a third-party server (like OpenAI or Google). You must trust their data privacy policies.
+
+Open Source: Requires technical expertise to deploy, configure, and maintain. Historically lagged behind closed models, though the gap has narrowed significantly.
+Closed Source: Instant, plug-and-play setup via simple APIs. Typically offers the highest frontier capabilities for reasoning, speed, and complex multimodal tasks.
